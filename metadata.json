@@ -1,0 +1,6 @@
+{
+  "name": "Priya AI",
+  "description": "JARVIS-style friendly high-intelligence AI voice & vision assistant powered by Gemini with screen sharing, screen understanding, camera photo analysis, voice synthesis, and reactive holographic HUD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
